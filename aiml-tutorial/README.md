@@ -24,7 +24,6 @@ These materials use numpy, matplotlib (pyplot), pandas
 | Session 2B | **Decision Boundary**                                           | <a href="/CourseMaterials/Boundary_simple.ipynb">Link</a>   |   ?? min. |
 | Session 2C | **Decision Boundary using TensorFlow**                                              | <a href="/CourseMaterials/Boundary_TensorFlow.ipynb">Link</a>   |   ?? min. |
 | Session 2D | **Classifier**                                              | <a href="/CourseMaterials/Classifier_example.ipynb">Link</a>   |   ?? min. |
-| Session 2E | **Regression**                                              | In Development   |   ?? min. |
 | Session 3  | **Data Science Workflow**                           |  In Development  |   ?? min. |
 
 ##  Use and Dependencies
